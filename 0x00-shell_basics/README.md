@@ -54,4 +54,8 @@ with an uppercase letter to the directory /tmp/u
 
 Script in 101-clean_emacs delete all files in the
 current working directory that end with the character
-~ 
+~
+
+Script in 102-tree creates the directories /welcome
+welcome/to/ and welcome/to/school in the current
+directory 
