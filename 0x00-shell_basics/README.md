@@ -48,3 +48,6 @@ working directory, but only copy files that did not
 exist in the parent of the working directory or were
 newer than the versions in the parent of the working
 directory
+
+Script in 100-lets_move moves all files beginning
+with an uppercase letter to the directory /tmp/u 
