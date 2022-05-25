@@ -13,3 +13,7 @@ directory contents in long format
 Script in 4-listmorefiles allows us to list all
 files even ones with names beginning with a period
 character
+
+Script in 5-listfilesdigitonly allows us to list
+all files even ones which are hidden with user and
+group IDs displayed numerically
