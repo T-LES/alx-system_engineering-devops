@@ -38,3 +38,6 @@ and the parent of the working directory and the /boot
 
 Script in 12-file_type prints the type of the file
 named iamafile which is in /tmp
+
+Script in 13-symbolic_link create a symbolic link
+to /bin/ls, named _ls_
