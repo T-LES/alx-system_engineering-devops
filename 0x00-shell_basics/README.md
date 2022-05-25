@@ -58,4 +58,12 @@ current working directory that end with the character
 
 Script in 102-tree creates the directories /welcome
 welcome/to/ and welcome/to/school in the current
-directory 
+directory
+
+Script in 103-commas lists all the files and directory
+of the current directory separated by commas even ones
+which are hidden. Directories names should end with a
+slash. The listing should be alpha ordered except for
+the directories . and .. which should be listed at the
+very beginning. Only digits and letters are used to sort;
+digits should come first 
