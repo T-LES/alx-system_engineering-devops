@@ -32,3 +32,6 @@ the directory named my_first_directory
 
 Script in 10-back allows us to change the working
 directory to previous one
+
+Script to list all files in the current directory
+and the parent of the working directory and the /boot
