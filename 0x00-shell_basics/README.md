@@ -50,4 +50,8 @@ newer than the versions in the parent of the working
 directory
 
 Script in 100-lets_move moves all files beginning
-with an uppercase letter to the directory /tmp/u 
+with an uppercase letter to the directory /tmp/u
+
+Script in 101-clean_emacs delete all files in the
+current working directory that end with the character
+~ 
