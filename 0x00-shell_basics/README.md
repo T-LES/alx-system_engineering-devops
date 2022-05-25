@@ -21,4 +21,8 @@ group IDs displayed numerically
 Script in 6-firstdirectory create a directory named
 my_first_directory in tmp
 
-Script to move file from tmp to my_first_directory
+Script in 7-movethatfile allows us to move file 
+from tmp to my_first_directory
+
+Script in 8-firstdelete allows us to delete the
+file named betty which is in my_first_directory
