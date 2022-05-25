@@ -29,3 +29,6 @@ file named betty which is in my_first_directory
 
 Script in 9-firstdirdeletion allows us to delete
 the directory named my_first_directory
+
+Script in 10-back allows us to change the working
+directory to previous one
