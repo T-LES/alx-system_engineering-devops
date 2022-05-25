@@ -66,8 +66,4 @@ which are hidden. Directories names should end with a
 slash. The listing should be alpha ordered except for
 the directories . and .. which should be listed at the
 very beginning. Only digits and letters are used to sort;
-digits should come first
-
-Script in school.mgc can be used with the command file
-to detect School data files. School data files always
-contain the string SCHOOL at offset 0
+digits should come first 
