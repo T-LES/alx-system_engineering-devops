@@ -20,3 +20,5 @@ group IDs displayed numerically
 
 Script in 6-firstdirectory create a directory named
 my_first_directory in tmp
+
+Script to move file from tmp to my_first_directory
