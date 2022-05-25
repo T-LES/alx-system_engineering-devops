@@ -17,3 +17,6 @@ character
 Script in 5-listfilesdigitonly allows us to list
 all files even ones which are hidden with user and
 group IDs displayed numerically
+
+Script in 6-firstdirectory create a directory named
+my_first_directory in tmp
