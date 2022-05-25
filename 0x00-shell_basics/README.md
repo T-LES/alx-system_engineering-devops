@@ -9,3 +9,7 @@ working directory to the user's home directory
 
 Script in 3-listfiles allows us to display current
 directory contents in long format
+
+Script in 4-listmorefiles allows us to list all
+files even ones with names beginning with a period
+character
