@@ -13,3 +13,7 @@ Script in 4-empty creates an empty file called hello
 
 Script in 5-execute adds execute permission to the owner of the
 file hello
+
+Script in 6-multiple_permissions adds execute permission to the
+owner and the group owner, and read permission to the users to
+the file hello
