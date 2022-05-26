@@ -17,3 +17,5 @@ file hello
 Script in 6-multiple_permissions adds execute permission to the
 owner and the group owner, and read permission to the users to
 the file hello
+
+Script in 7-everybody adds execution permission to all user
