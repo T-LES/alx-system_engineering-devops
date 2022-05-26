@@ -19,3 +19,6 @@ owner and the group owner, and read permission to the users to
 the file hello
 
 Script in 7-everybody adds execution permission to all user
+
+Script in 8-James_Bond allow all permission to other user and 
+no permission to owner and group
