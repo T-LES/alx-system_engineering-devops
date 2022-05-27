@@ -22,3 +22,7 @@ Script in 7-everybody adds execution permission to all user
 
 Script in 8-James_Bond allow all permission to other user and 
 no permission to owner and group
+
+Script in 9-John_Doe set the mode of the file hello to this:
+all permissions to owner, read and execute permission to group
+owner, write and execute to other users
