@@ -26,6 +26,3 @@ no permission to owner and group
 Script in 9-John_Doe set the mode of the file hello to this:
 all permissions to owner, read and execute permission to group
 owner, write and execute to other users
-
-Script in 10-mirror_permissions set the mode of the file hello
-the same as olleh's mode
