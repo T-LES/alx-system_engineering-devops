@@ -30,4 +30,7 @@ directory and all its subfolders.
 
 Script in 11-directories counts the number of directories and sub
 -directories in the current directory. The current and parent direc
-tories are not taken into account. Hidden directories are counted
+tories are not taken into account. Hidden directories are counted.
+
+Script in 12-newest_files displays the 10 newest files in the current 
+directory.
