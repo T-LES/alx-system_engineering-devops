@@ -52,3 +52,6 @@ that do not contain the pattern "bin".
 
 Script in 18-letteronly displays all lines of the file /etc/ssh/sshd_config
 starting with a letter.
+
+Script in 19-AZ replaces all characters A and c from input to Z and e
+respectively.
