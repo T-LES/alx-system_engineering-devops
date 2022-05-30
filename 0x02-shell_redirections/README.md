@@ -13,4 +13,6 @@ Script in 5-firstlines displays the first 10 lines of /etc/passwd.
 
 Script in 6-third_line displays the third line of the file iata.
 
-Script in 7-file creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+Script in 7-file creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:).
+
+Script in 8-cwd_state writes the result of the command ls -la in the file ls_cwd_content
