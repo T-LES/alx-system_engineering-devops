@@ -37,3 +37,6 @@ directory.
 
 Script in 13-unique take a list of words as input and prints only words
 appear exactly once.
+
+Script in 14-findthatword displays lines containing the pattern "root"
+from the file /etc/passwd.
