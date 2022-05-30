@@ -12,3 +12,5 @@ Script in 4-lastfiles displays the last 10 lines of /etc/passwd.
 Script in 5-firstlines displays the first 10 lines of /etc/passwd.
 
 Script in 6-third_line displays the third line of the file iata.
+
+Script in 7-file creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
