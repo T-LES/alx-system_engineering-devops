@@ -5,4 +5,6 @@ Script in 1-confused_smiley displays a confused smiley "(Ôo)'
 
 Script in 2-hellofile displays the content of the /etc/passwd file.
 
-Script in 3-twofiles displays the content of /etc/passwd and /etc/hosts
+Script in 3-twofiles displays the content of /etc/passwd and /etc/hosts.
+
+Script in 4-lastfiles displays the last 10 lines of /etc/passwd
