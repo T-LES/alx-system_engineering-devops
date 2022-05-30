@@ -55,3 +55,5 @@ starting with a letter.
 
 Script in 19-AZ replaces all characters A and c from input to Z and e
 respectively.
+
+Script in 20-hiago removes all letters c and C from input.
