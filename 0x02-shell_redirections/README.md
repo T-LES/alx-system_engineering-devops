@@ -34,3 +34,6 @@ tories are not taken into account. Hidden directories are counted.
 
 Script in 12-newest_files displays the 10 newest files in the current 
 directory.
+
+Script in 13-unique take a list of words as input and prints only words
+appear exactly once.
