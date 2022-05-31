@@ -31,3 +31,6 @@ Script in 10-love_exponent_breath print the result of
 one environment variable to the power of another.
 Script in 11-binary_to_decimal converts a number from
 base 2 to base 10.
+
+Script in 12-combinations prints all possible combinai
+sons of two letters, except oo.
