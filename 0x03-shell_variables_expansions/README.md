@@ -3,4 +3,7 @@ Script in 0-alias creates an alias.
 Script in 1-hello_you hello follow by the name of
 the current user.
 
-Script in 2-path add /action to the PATH
+Script in 2-path add /action to the PATH.
+
+Script in 3-paths counts the number of directories 
+in the PATH
