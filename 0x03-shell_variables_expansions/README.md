@@ -22,4 +22,7 @@ global variable.
 
 Script in 8-true_knowledge prints the result of the
 addition of 128 with the value stored in the environ
-ment variable TRUEKNOWLEDGE
+ment variable TRUEKNOWLEDGE.
+
+Script in 9-divide_and_rule prints the result of two
+environment variables.
