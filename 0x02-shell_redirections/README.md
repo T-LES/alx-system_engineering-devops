@@ -65,4 +65,6 @@ sorted by users.
 
 Script in 100-empty_casks finds all empty files and directories in the current
 directory and all sub-directories. Only the names of the files are displayed.
-Hidden files are listed. with one file name per line. 
+Hidden files are listed. with one file name per line.
+
+Script in 101-gifs lists all the files with a .gif extension 
