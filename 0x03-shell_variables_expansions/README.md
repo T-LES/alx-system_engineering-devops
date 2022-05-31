@@ -26,3 +26,6 @@ ment variable TRUEKNOWLEDGE.
 
 Script in 9-divide_and_rule prints the result of two
 environment variables.
+
+Script in 10-love_exponent_breath print the result of
+one environment variable to the power of another.
