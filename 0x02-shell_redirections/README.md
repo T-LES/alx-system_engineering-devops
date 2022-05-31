@@ -62,3 +62,7 @@ Script in 21-reverse reverse its input.
 
 Script in 22-users_and_homes displays all users and their home directories,
 sorted by users.
+
+Script in 100-empty_casks finds all empty files and directories in the current
+directory and all sub-directories. Only the names of the files are displayed.
+Hidden files are listed. with one file name per line. 
