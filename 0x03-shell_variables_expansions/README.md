@@ -9,4 +9,7 @@ Script in 3-paths counts the number of directories
 in the PATH.
 
 Script in 4-global_variables lists environment va
-riables
+riables.
+
+Script in 5-local_variables lists all local varia
+bles and environnement variables, and functions.
