@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | grep -v -E "(^/|^:)" | ls -la | wc -l
+echo $PATH | grep -v -E "(^/|^:)" | ls -lA | wc -l
