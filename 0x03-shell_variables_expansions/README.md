@@ -12,4 +12,7 @@ Script in 4-global_variables lists environment va
 riables.
 
 Script in 5-local_variables lists all local varia
-bles and environnement variables, and functions.
+bles and environment variables, and functions.
+
+Script in 6-create_local_variable creates a new lo
+cal variable.
