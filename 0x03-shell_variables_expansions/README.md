@@ -19,3 +19,7 @@ cal variable.
 
 Script in 7-create_global_variable creates a new 
 global variable.
+
+Script in 8-true_knowledge prints the result of the
+addition of 128 with the value stored in the environ
+ment variable TRUEKNOWLEDGE
