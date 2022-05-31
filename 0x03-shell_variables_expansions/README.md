@@ -16,3 +16,6 @@ bles and environment variables, and functions.
 
 Script in 6-create_local_variable creates a new lo
 cal variable.
+
+Script in 7-create_global_variable creates a new 
+global variable.
