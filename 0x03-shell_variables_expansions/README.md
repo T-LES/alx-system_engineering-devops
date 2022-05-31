@@ -6,4 +6,7 @@ the current user.
 Script in 2-path add /action to the PATH.
 
 Script in 3-paths counts the number of directories 
-in the PATH
+in the PATH.
+
+Script in 4-global_variables lists environment va
+riables
