@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} | grep -v -E "(^oo)" | sort | ls -1
+echo {a..z}{a..z} | grep -v -E "(^oo)" | ls -1 | sort
