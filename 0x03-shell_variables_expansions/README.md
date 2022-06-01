@@ -37,3 +37,6 @@ sons of two letters, except oo.
 
 Script in 13-print_float prints a number with two deci
 mal places.
+
+Script in 100-decimal_to_hexadecimal converts a number
+from base 10 to base 16.
