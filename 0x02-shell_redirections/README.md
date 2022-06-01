@@ -73,4 +73,6 @@ Script in 102-acrostic decodes acrostics that use the first letter of each
 line.
 
 Script in 103-the_biggest_fan parses web servers logs in TSV format as input 
-and displays the 11 hosts or IP addresses which did the most requests. 
+and displays the 11 hosts or IP addresses which did the most requests.
+
+Script in 101-rot13 encodes and decodes text using the rot13 encryption. 
