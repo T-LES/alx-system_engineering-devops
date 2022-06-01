@@ -43,3 +43,6 @@ from base 10 to base 16.
 
 Script in 101-rot13 encodes and decodes text using the 
 rot13 encryption.
+
+Script in 102-odd prints every other line from the in
+put, starting with the first line.
