@@ -34,3 +34,6 @@ base 2 to base 10.
 
 Script in 12-combinations prints all possible combinai
 sons of two letters, except oo.
+
+Script in 13-print_float prints a number with two deci
+mal places.
