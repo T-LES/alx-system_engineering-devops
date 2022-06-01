@@ -46,3 +46,7 @@ rot13 encryption.
 
 Script in 102-odd prints every other line from the in
 put, starting with the first line.
+
+Script in 103-water_and_stir adds two numbers stored 
+in the environment variables WATER and STIR and prints 
+the result.
