@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%b\n" {a..z}{a..z} | sort
+printf "%b\n" {a..z}{a..z} | sort | grep -v oo
